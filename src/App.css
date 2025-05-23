@@ -1,0 +1,10 @@
+button:hover {
+  background-color: rgb(70, 70, 156);
+  color: white;
+  border-color: rgb(70, 70, 156);
+  transition: 0.7s;
+}
+
+body{
+    background-color: #c6b8b8;
+}
